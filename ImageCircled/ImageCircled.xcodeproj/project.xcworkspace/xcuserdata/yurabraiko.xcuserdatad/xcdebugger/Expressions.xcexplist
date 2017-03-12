@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FacetedItem.init(pixels : UnsafePointer&lt;UInt8&gt;, width : Int, heigth : Int, rectangle : CGRect) -&gt; FacetedItem:FacetedItem.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FacetedItem.parseImage(image : UIImage) -&gt; ():FacetedItem.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "1&lt;&lt;4">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CircledView.setImage(image : UIImage) -&gt; ():CircledView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FacetedItem.init(image : UIImage) -&gt; FacetedItem:FacetedItem.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FacetedItem.split() -&gt; ():FacetedItem.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
